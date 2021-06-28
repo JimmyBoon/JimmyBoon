@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> ### Hi there 👋 <h1>
 - 🔭 I’m currently working on an AI demonstrater project in Unity 3d. 
 
 - 🌱 I’m currently learning C# and Unity 3d. Also studying Engineering and Mathematics. 
