@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning C# and Unity 3d. 
 
 - 👯 I’m looking to collaborate on Unity projects.
-
+<image>
 https://www.codewars.com/users/JimmyBoon/badges/micro
-  
+</image>
   <!--
 **JimmyBoon/JimmyBoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
