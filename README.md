@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Unity projects.
 
+https://www.codewars.com/users/JimmyBoon/badges/micro
+
 -->
