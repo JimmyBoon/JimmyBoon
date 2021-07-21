@@ -9,7 +9,7 @@
 
 - Practicing my skills at Code Wars: 
 
-![image](https://www.codewars.com/users/JimmyBoon/badges/micro)
+![image](https://www.codewars.com/users/JimmyBoon/badges/large)
   <!--
 **JimmyBoon/JimmyBoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
